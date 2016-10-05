@@ -1,0 +1,29 @@
+{
+    "name": "des1roer/yii2-des1roer-pers",
+    "description": "pers",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "des1roer",
+            "email": "des1roer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "des1roer\\pers\\": ""
+        }
+    },
+     "extra": {
+        "branch-alias": {
+            "stable": "1.0.1"
+        }
+    }
+}
