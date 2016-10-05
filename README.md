@@ -1,7 +1,6 @@
 pers
 ====
-pers lol
-sss
+pers 
 Installation
 ------------
 
